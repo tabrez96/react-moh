@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://tabrez:abtabrez@cluster0-twver.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
